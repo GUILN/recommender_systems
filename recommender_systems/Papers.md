@@ -38,5 +38,10 @@
 Session-based Recommendation](https://www.semanticscholar.org/reader/b05a5424d0fce45896b6b8a847cf540a38f556bc) | #session-based | 
 
 
+#### Vanila Methods
 
+| Paper | Description |
+|-------|-------------|
+| [The Graph Neural Network Model](https://www.semanticscholar.org/paper/The-Graph-Neural-Network-Model-Scarselli-Gori/3efd851140aa28e95221b55fcc5659eea97b172d) | #gnn #introduction |
+| [Gated Graph Sequence Neural Network](https://www.semanticscholar.org/paper/Gated-Graph-Sequence-Neural-Networks-Li-Tarlow/492f57ee9ceb61fb5a47ad7aebfec1121887a175) | #gated
 
