@@ -2,3 +2,8 @@
 .obsidian/**/**
 .obsidian
 
+# Python
+.venv
+.venv/**
+.venv/**/**
+
