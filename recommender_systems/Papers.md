@@ -2,8 +2,8 @@
 # Surveys
 | Paper | Description | Other Info |
 |-------|-------------|------------|
-| [A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions](https://www.semanticscholar.org/paper/A-Survey-of-Graph-Neural-Networks-for-Recommender-Gao-Zheng/071e053890765ecc2ff8ef9054e9c75ec135e167) | #gnn | [github repo](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) | 
-| [Graph Learning based Recommender Systems: A Review](https://www.semanticscholar.org/paper/Graph-Learning-based-Recommender-Systems%3A-A-Review-Wang-Hu/bfd2650e6db708cf45223bbeac3c14935252a898) | #graph-based #bi-partite-graph| 
+| [A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions](https://www.semanticscholar.org/paper/A-Survey-of-Graph-Neural-Networks-for-Recommender-Gao-Zheng/071e053890765ecc2ff8ef9054e9c75ec135e167) | #gnn #read| [github repo](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) | 
+| [Graph Learning based Recommender Systems: A Review](https://www.semanticscholar.org/paper/Graph-Learning-based-Recommender-Systems%3A-A-Review-Wang-Hu/bfd2650e6db708cf45223bbeac3c14935252a898) | #graph-based #bi-partite-graph #read| 
 | [A Comprehensive Survey of Knowledge Graph-Based Recommender Systems: Technologies, Development, and Contributions](https://www.semanticscholar.org/paper/A-Comprehensive-Survey-of-Knowledge-Graph-Based-and-Chicaiza-D%C3%ADaz/48e2adf2d8d6b24060174c5a262542c885d12149) | #datasources #metrics #graph-based #KG| 
 
 # Methods
@@ -25,9 +25,9 @@
 #### Session-Based
 | Paper | Description |
 |-------|-------------|
-| [Session-based Recommendation with Graph Neural Networks](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #session-based #gnn |
+| [Session-based Recommendation with Graph Neural Networks](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #session-based #gnn #lab #attention #read #diginetica #yoochoose|
 | [Graph Contextualized Self-Attention Network for Session-based Recommendation](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #gnn #session-based #self-attention #attention |
-| [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #gnn #attention |
+| [TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #gnn #attention #read #diginetica #yoochoose |
 | [Handling Information Loss of Graph Neural Networks for Session-based Recommendation](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #gnn #information-loss |
 | [Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation](https://www.semanticscholar.org/paper/Session-based-Recommendation-with-Graph-Neural-Wu-Tang/0c7e1338a9c7914a3b9a5bdc42b457b3f272160e) | #session-based #micro-behavior |
 | [An Efficient and Effective Framework for Session-based Social Recommendation](https://www.semanticscholar.org/paper/An-Efficient-and-Effective-Framework-for-Social-Chen-Wong/69b6af56160eb25482714fc3a9a93999073dd0a8) | #session-based #social #gnn |
@@ -42,6 +42,6 @@ Session-based Recommendation](https://www.semanticscholar.org/reader/b05a5424d0f
 
 | Paper | Description |
 |-------|-------------|
-| [The Graph Neural Network Model](https://www.semanticscholar.org/paper/The-Graph-Neural-Network-Model-Scarselli-Gori/3efd851140aa28e95221b55fcc5659eea97b172d) | #gnn #introduction |
+| [The Graph Neural Network Model](https://www.semanticscholar.org/paper/The-Graph-Neural-Network-Model-Scarselli-Gori/3efd851140aa28e95221b55fcc5659eea97b172d) | #gnn #introduction #read|
 | [Gated Graph Sequence Neural Network](https://www.semanticscholar.org/paper/Gated-Graph-Sequence-Neural-Networks-Li-Tarlow/492f57ee9ceb61fb5a47ad7aebfec1121887a175) | #gated
 
